@@ -1,6 +1,6 @@
 # Javascript UI component library for Mobile WebSite
 
-Component Develop 2012.10 ~ 2012.12
+`Component Develop 2012.10 ~ 2012.12`
 
 ## Layout Component
 - HBox
@@ -53,4 +53,12 @@ Component Develop 2012.10 ~ 2012.12
 
 # Develop VOD Service mobile web app Using UI Componont 
 
-VOD Service Develop 2012.12 ~ 2013.01
+`VOD Service Develop 2012.12 ~ 2013.01`
+
+## structure scaffolding
+- locale: language string
+- model: data of object
+- resources: css, images, video
+- view: Client Scene
+- service: service logic 
+- references: use external library
